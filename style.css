@@ -1,0 +1,11 @@
+div {float: left}
+#vert {
+    background-color: #2ECC71;
+    height: 50px;
+    width: 75%;
+  }
+#bleuciel {
+  background-color: #2980B9;
+  height: 50px;
+  width: 25%;
+}
