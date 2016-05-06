@@ -9,3 +9,23 @@ div {float: left}
   height: 50px;
   width: 25%;
 }
+#rouge {
+  background-color: #E74C3C;
+  height: 150px;
+  width: 34%
+}
+#orange {
+  background-color: #E67E22;
+  height: 75px;
+  width: 33%;
+}
+#gris {
+  background-color: #95A5A6;
+  height: 75px;
+  width: 33%;
+}
+#dore {
+  background-color: #F39C12;
+  height: 75px;
+  width: 22%
+}
